@@ -4,12 +4,12 @@
 
   <p align="center">
     <strong>Third-Year IT & Management Undergraduate @ University of Moratuwa</strong><br />
-    <em>Aspiring Software Engineer & Full-Stack Developer</em>
+    <em>Full-Stack & Software Systems Developer</em>
   </p>
 
   <!-- Animated Typing Header -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=61AFEF&center=true&vcenter=true&width=500&lines=Software+Engineering+Internship+Seeker;Full+Stack+Developer;React+%7C+Node.js+%7C+NestJS+%7C+Java" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=61AFEF&center=true&vcenter=true&width=550&lines=Turning+Ideas+into+Scalable+Code;IT+%26+Software+Systems+Enthusiast;Bridging+Technology+%26+Business+Solutions" alt="Typing SVG" />
   </a>
 
   <br /><br />
@@ -21,6 +21,9 @@
     </a>
     <a href="https://yenulimunasinghe.vercel.app/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="https://medium.com/@yenulimunasinghe04" target="_blank">
+      <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
     </a>
     <a href="mailto:yenulimunasinghe04@gmail.com">
       <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -38,10 +41,10 @@
 
 ### 🚀 About Me
 
-- 🎓 **Education:** 3rd-year IT & Management undergraduate at the **University of Moratuwa**, passionate about engineering robust, scalable web solutions.
-- ⚙️ **Focus:** **Software Engineering**, **Full Stack Development**, **Databases & Distributed Systems**, and **REST API Design**.
-- 💼 **Goal:** Actively seeking a **Software Engineering Internship** to contribute to high-impact projects.
-- 🌱 **Currently Learning:** Advanced backend architectures, microservices pattern, and cloud deployment pipelines.
+- 🎓 **Education:** 3rd-year IT & Management undergraduate at the **University of Moratuwa**.
+- ⚙️ **Focus Areas:** **Software Engineering**, **Full Stack Development**, **Databases**, and **REST APIs**.
+- 💡 **Passion:** Turning ideas into scalable code and bridging technology with business solutions.
+- 💼 **Career:** Actively seeking a **Software Engineering Internship** opportunity.
 
 ---
 
@@ -59,15 +62,11 @@
 
 ---
 
-### 📊 GitHub Stats & Activity
+### 📊 Most Used Languages
 
 <div align="center">
   <br />
-  <img src="https://github-readme-stats-eight.vercel.app/api?username=YenuliMunasinghe&show_icons=true&hide_border=true&theme=tokyonight" width="48%" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=YenuliMunasinghe&layout=compact&hide_border=true&theme=tokyonight" width="48%" alt="Top Languages" />
-  <br /><br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YenuliMunasinghe&theme=tokyonight&hide_border=true" width="97%" alt="GitHub Commit Streak" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=YenuliMunasinghe&layout=compact&hide_border=true&theme=tokyonight" width="30%" alt="Top Languages" />
 </div>
 
 ---
@@ -78,6 +77,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yenuli-munasinghe-6b6327354/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=globe&logoColor=white)](https://yenulimunasinghe.vercel.app/)
+[![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@YOUR_MEDIUM_USERNAME)
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:yenulimunasinghe04@gmail.com)
 
 </div>
