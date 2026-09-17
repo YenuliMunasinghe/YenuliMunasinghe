@@ -62,22 +62,76 @@
 
 ---
 
-### 📊 Most Used Languages
+### 🎯 Currently Learning
+
+- 🚀 Advanced React patterns & performance optimization
+- 🐳 Docker containerization for deployment
+- 📦 PostgreSQL & advanced query optimization
+- 🏗️ System design principles & scalability
+- ☁️ Cloud deployment (AWS, Azure, or GCP)
+- 🔒 Advanced security practices (OWASP Top 10)
+
+---
+
+### 🌟 Featured Projects
 
 <div align="center">
-  <br />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=YenuliMunasinghe&layout=compact&hide_border=true&theme=tokyonight" width="30%" alt="Top Languages" />
+
+#### 🌐 Personal Portfolio
+*Modern, responsive portfolio showcasing full-stack skills*
+
+**Tech:** React 19 • Tailwind CSS • Vite • Vercel
+
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/YenuliMunasinghe/personal-portfolio) 
+[![Live Demo](https://img.shields.io/badge/-Live%20Demo-4CAF50?style=flat&logo=globe)](https://yenulimunasinghe.vercel.app/)
+
+---
+
+#### 📝 MyBlog
+*Full-featured blog platform with security best practices*
+
+**Tech:** PHP • MySQL • Vanilla JS • CSRF Protection • HMAC Cookies
+
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/YenuliMunasinghe/myblog) 
+[![Live Demo](https://img.shields.io/badge/-Live%20Demo-4CAF50?style=flat&logo=globe)](http://myblog-forwho.lovestoblog.com/)
+
 </div>
 
 ---
 
-### 📫 Connect with Me
+### 🚀 What I'm Working On
+
+- 🔨 Building scalable full-stack applications
+- 💡 Exploring emerging web technologies
+- 🎓 Pursuing internship opportunities in software engineering
+
+---
+
+### 📊 GitHub Statistics
+
+<div align="center">
+  <br />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=YenuliMunasinghe&layout=compact&hide_border=true&theme=tokyonight" width="30%" alt="Top Languages" />
+  <br /><br />
+</div>
+
+---
+
+### 💬 Let's Connect
 
 <div align="center">
 
+**I'm always open to interesting projects, collaboration opportunities, and conversations about tech.**
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yenuli-munasinghe-6b6327354/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=globe&logoColor=white)](https://yenulimunasinghe.vercel.app/)
-[![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@YOUR_MEDIUM_USERNAME)
+[![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@yenulimunasinghe04)
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:yenulimunasinghe04@gmail.com)
+
+📧 **Email:** [yenulimunasinghe04@gmail.com](mailto:yenulimunasinghe04@gmail.com)
+
+---
+
+**Last Updated:** September 2026 | Actively Seeking: Software Engineering Internship ✨
 
 </div>
